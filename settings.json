@@ -1,0 +1,5 @@
+{
+    "exchange":"bittrex",
+    "market_pair": "ETH/BTC",
+    "time_frame": "5m"
+}
